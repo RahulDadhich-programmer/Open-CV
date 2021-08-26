@@ -1,0 +1,3 @@
+﻿  Project-3.cpp
+C:\Users\hp\source\repos\OpenCvcourse\OpenCvcourse\Project-3.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\hp\source\repos\OpenCvcourse\OpenCvcourse\Project-3.cpp(15): fatal error C1075: '{': no matching token found
